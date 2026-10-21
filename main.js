@@ -61,7 +61,7 @@ let fact5 = '<p class ="fact">The Moon has almost no atmosphere.</p>'
 moonFactFive.innerHTML += fact5;
 
 const moonFactSix = document.getElementById('moon-fact-6')
-let fact6 = '<p class ="fact">There are aliens are on the moon...</p>'
+let fact6 = '<p class ="fact">liens are on the moon...</p>'
 moonFactSix.innerHTML += fact6;
 
 
